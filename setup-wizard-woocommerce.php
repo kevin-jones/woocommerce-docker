@@ -56,4 +56,3 @@ update_option('show_on_front','page');
 update_option('page_on_front', $page->ID);
 
 echo "DONE! :)";
-?>

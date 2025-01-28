@@ -27,8 +27,8 @@ Logins:
 
 Wordpress
 - user: admin
-- pass: tbc
+- pass: WooWoo123
 
 MySQL
 - user: admin
-- pass: tbc
+- pass: aNryeYirzPS8
